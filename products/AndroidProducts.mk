@@ -21,6 +21,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/davinci/aospa_davinci.mk \
     $(LOCAL_DIR)/dubai/aospa_dubai.mk \
     $(LOCAL_DIR)/fuxi/aospa_fuxi.mk \
+    $(LOCAL_DIR)/haydn/aospa_haydn.mk \
     $(LOCAL_DIR)/ishtar/aospa_ishtar.mk \
     $(LOCAL_DIR)/lahaina/aospa_lahaina.mk \
     $(LOCAL_DIR)/lito/aospa_lito.mk \
@@ -28,6 +29,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/marble/aospa_marble.mk \
     $(LOCAL_DIR)/mi439_419/aospa_mi439_419.mk \
     $(LOCAL_DIR)/miatoll/aospa_miatoll.mk \
+    $(LOCAL_DIR)/monet/aospa_monet.mk \
     $(LOCAL_DIR)/munch/aospa_munch.mk \
     $(LOCAL_DIR)/nuwa/aospa_nuwa.mk \
     $(LOCAL_DIR)/oneplus7/aospa_oneplus7.mk \
@@ -55,6 +57,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_davinci-userdebug \
     aospa_dubai-userdebug \
     aospa_fuxi-userdebug \
+    aospa_haydn-userdebug \
     aospa_ishtar-userdebug \
     aospa_lahaina-userdebug \
     aospa_lito-userdebug \
@@ -62,6 +65,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_marble-userdebug \
     aospa_mi439_419-userdebug \
     aospa_miatoll-userdebug \
+    aospa_monet-userdebug \
     aospa_munch-userdebug \
     aospa_nuwa-userdebug \
     aospa_oneplus7-userdebug \
